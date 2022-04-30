@@ -1,0 +1,48 @@
+body{
+  background-size: cover;
+  background-position: center;
+}
+#google{
+  float: left;
+  margin-left: 100px;
+}
+
+#mobile{
+  float: right;
+  margin-right: 100px;
+}
+
+.div1{
+  background-color: blueviolet;
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 5px black;
+}
+b{
+  color: red;
+}
+div2{
+  text-align: center;
+  color: white;
+}
+
+#image1{
+  height: 100px;
+  width: 100px;
+  margin-right: 20px;
+}
+#image2{
+  height: 200px;
+}
+
+.result{
+  box-shadow: 5px 5px 5px black;
+  letter-spacing: 2px;
+  background-color: fuchsia;
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid white;
+width: 100%;
+}
